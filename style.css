@@ -1,0 +1,21 @@
+.front-view{
+    background-image: url("./images/cindy-tang-ob-hsLNxYPc-unsplash.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 115vh;
+}
+
+.sticky-header{
+    font-size: 20px;
+}
+
+.errMsg{
+    display: none;
+}
+
+.errStyle{
+    display: block;
+    color: #df2b3d;
+}
